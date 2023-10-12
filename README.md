@@ -1,6 +1,6 @@
 # Most-Asked-DS-Interview-Questions
 This repository contains the most frequently asked data science interview questions. 
-Since it covers a 360-degree view of data science interview questions, you might find questions related to various skills, such as:-
+Since it covers a 360-degree view of data science interview questions and their's answer, you might find questions related to various skills, such as:-
   1. Python,
   2. SQL,
   3. Advance MS Excel,
